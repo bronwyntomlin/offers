@@ -1,0 +1,40 @@
+/*
+ * Dropper v1.0.1 - 2014-11-25
+ * A jQuery plugin for simple drag and drop uploads. Part of the Formstone Library.
+ * http://formstone.it/dropper/
+ *
+ * Copyright 2014 Ben Plum; MIT Licensed
+ */
+
+.dropper {
+    overflow: hidden;
+    position: relative;
+}
+
+.dropper-dropzone {
+    background: #f4f4f4;
+    border: 2px dashed #DDD;
+    border-radius: 0;
+    color: #999;
+    cursor: pointer;
+    margin: 0;
+    padding: 1em;
+    text-align: center;
+}
+
+.dropper.dropping .dropper-dropzone,
+.no-touch .dropper:hover .dropper-dropzone {
+    background: #eeeeee;
+    border-color: #999999;
+    color: #333333;
+}
+
+.dropper-input {
+    position: absolute;
+    left: 100%;
+    opacity: 0;
+}
+
+.no-opacity .dropper-input {
+    left: -999px;
+}

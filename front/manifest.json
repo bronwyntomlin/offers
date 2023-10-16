@@ -1,0 +1,13 @@
+{
+    "name": "PropertyTurkey Web App",
+    "short_name": "PropertyTurkey",
+    "icons": [],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color" : "#cf1f1d",
+    "description": "PropertyTurkey Web App",
+    "dir": "ltr",
+    "lang": "en-UK"
+}

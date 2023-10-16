@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="bed" width="21" height="14.153" viewBox="0 0 21 14.153">
+    <defs>
+        <style>
+            .cls-1{fill:#b93006}
+        </style>
+    </defs>
+    <g id="Group_98" data-name="Group 98" transform="translate(6.389 3.193)">
+        <g id="Group_97" data-name="Group 97">
+            <path id="Path_296" d="M161.578 154.6h-10.861c-.531 0-1.417.2-1.417 1.566v2.088h13.695v-2.088c0-1.361-.886-1.566-1.417-1.566z" class="cls-1" data-name="Path 296" transform="translate(-149.3 -154.6)"/>
+        </g>
+    </g>
+    <g id="Group_100" data-name="Group 100">
+        <g id="Group_99" data-name="Group 99">
+            <path id="Path_297" d="M3.437 87.3H1.369V80H0v14.153h1.369V90.5h18.262v3.651H21V87.3z" class="cls-1" data-name="Path 297" transform="translate(0 -80)"/>
+        </g>
+    </g>
+    <g id="Group_102" data-name="Group 102" transform="translate(1.738 3.107)">
+        <g id="Group_101" data-name="Group 101">
+            <circle id="Ellipse_10" cx="1.913" cy="1.913" r="1.913" class="cls-1" data-name="Ellipse 10"/>
+        </g>
+    </g>
+</svg>

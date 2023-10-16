@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="2.527" viewBox="0 0 24 2.527">
+    <defs>
+        <style>
+            .cls-1{fill:#463d2b}
+        </style>
+    </defs>
+    <g id="horizontal-line" transform="translate(0 -32.731)">
+        <g id="Minus" transform="translate(0 32.731)">
+            <g id="Group_96" data-name="Group 96">
+                <path id="Path_295" d="M22.609 32.731H1.391a1.269 1.269 0 1 0 0 2.527h21.218a1.269 1.269 0 1 0 0-2.527z" class="cls-1" data-name="Path 295" transform="translate(0 -32.731)"/>
+            </g>
+        </g>
+    </g>
+</svg>

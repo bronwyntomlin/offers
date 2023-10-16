@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.173" height="74.173" viewBox="0 0 74.173 74.173">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#e1e1e1}.cls-2{fill:#463d2b}.cls-3{stroke:none}.cls-4{fill:none}.cls-5{filter:url(#Ellipse_12)}
+        </style>
+        <filter id="Ellipse_12" width="74.173" height="74.173" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_957" data-name="Group 957" transform="translate(3 2)">
+        <g id="Group_462" data-name="Group 462">
+            <g class="cls-5" transform="translate(-3 -2)">
+                <g id="Ellipse_12-2" class="cls-1" data-name="Ellipse 12" transform="translate(3 2)">
+                    <ellipse cx="34.087" cy="34.087" class="cls-3" rx="34.087" ry="34.087"/>
+                    <ellipse cx="34.087" cy="34.087" class="cls-4" rx="33.587" ry="33.587"/>
+                </g>
+            </g>
+            <path id="ic_keyboard_arrow_down_24px" d="M2.864 0l9.324 9.3L21.511 0l2.864 2.864-12.187 12.188L0 2.864z" class="cls-2" transform="rotate(180 23.36 20.855)"/>
+        </g>
+    </g>
+</svg>

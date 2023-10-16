@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.979" height="13.928" viewBox="0 0 24.979 13.928">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Camera_icon" data-name="Camera icon">
+        <g id="Group_854" data-name="Group 854" transform="translate(18.561 1.173)">
+            <path id="Path_404" d="M247.281 44.468L242.3 47.9v4.279l4.981 3.436a.9.9 0 0 0 1.437-.611V45.08a.906.906 0 0 0-1.437-.612z" class="cls-1" data-name="Path 404" transform="translate(-242.3 -44.303)"/>
+        </g>
+        <g id="Group_855" data-name="Group 855">
+            <path id="Path_405" d="M34.435 30.1H19.326a1.777 1.777 0 0 0-1.726 1.735V42.1a1.858 1.858 0 0 0 1.784 1.925h14.993a1.859 1.859 0 0 0 1.784-1.883V31.793a1.78 1.78 0 0 0-1.726-1.693z" class="cls-1" data-name="Path 405" transform="translate(-17.6 -30.1)"/>
+        </g>
+    </g>
+</svg>
